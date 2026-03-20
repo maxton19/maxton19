@@ -5,7 +5,7 @@
 
 ---
 
-Saya membangun ekosistem teknologi dari nol — mulai dari **platform outsourcing berbasis AI**, **sistem smart city skala kota**, hingga **AI orchestration pipeline** dan **infrastructure automation** dengan hardware lab sendiri (RTX 5090 · Jetson Orin Nano · NAS 2TB).
+Saya membangun ekosistem teknologi dari nol — mulai dari **platform outsourcing berbasis AI**, **sistem smart city skala kota**, hingga **AI orchestration pipeline** dan **infrastructure automation** dengan hardware lab sendiri (RTX 5090 · Jetson Orin Nano Dev Kit & NX · NAS On-Premise).
 
 Bukan sekadar developer. Saya berpikir di level sistem, arsitektur, dan bisnis sekaligus.
 
@@ -16,9 +16,9 @@ Bukan sekadar developer. Saya berpikir di level sistem, arsitektur, dan bisnis s
 | Project | Stack | Status |
 |---|---|---|
 | **PT Fadjar Merah Indonesia** — AI-powered outsourcing platform | Next.js · Three.js · FastAPI · OpenCV | 🟢 Active |
-| **SAWA Smart City — Kota Serang** — City-scale monitoring system | Golang · FastAPI · Next.js · Kotlin · TimescaleDB | 🟡 In Progress |
-| **SAWA AI Agent** — Multi-model AI agent system (dual-hardware) | Python · Jetson · RTX 5090 · CLI | 🟢 Active |
-| **Orchestration Pipeline System** — Distributed multi-worker automation | FastAPI · ComfyUI · Redis · NAS · Scheduler | 🟡 In Progress |
+| **SAWA Smart City** — City-scale AI monitoring system | Golang · FastAPI · Next.js · Kotlin · YOLOv8 · Transformers · TimescaleDB | 🟡 In Progress |
+| **SAWA AI Agent** — Multi-model AI agent system (dual-hardware) | Python · Jetson Orin Nano Dev Kit & NX · RTX 5090 · CLI | 🟢 Active |
+| **Orchestration Pipeline System** — Distributed multi-worker automation | FastAPI · ComfyUI · Redis · NAS Cloud On-Premise · Scheduler | 🟡 In Progress |
 | **Golden Image OS** — Automated Debian 12 hardened image builder | Packer · Ansible · QEMU · QCOW2 | 🟢 Active |
 | **Sawash / Sawa Technologia** — Software house landing | Next.js · React Three Fiber · TypeScript | 🟢 Active |
 | **PyGin Holding** — Multi-PT tech holding roadmap | — | 🟡 In Progress |
@@ -59,15 +59,15 @@ Bukan sekadar developer. Saya berpikir di level sistem, arsitektur, dan bisnis s
 ## 🧠 Specializations
 
 ```
-AI & Computer Vision     →  YOLOv8 · OpenCV · FastAPI · MQTT · Deep Learning
+AI & Computer Vision     →  YOLOv8 · Transformers · OpenCV · FastAPI · MQTT · Deep Learning
 AI Agent Systems         →  Multi-model CLI · Dual-hardware Orchestration · LLM Integration
 Orchestration & Pipeline →  Redis Queue · Scheduler · ComfyUI · Distributed Workers
 OS & Infrastructure      →  Packer · Ansible · Debian 12 Hardening · Golden Image · QCOW2/KVM
-DevOps                   →  Docker · NFS/NAS · Proxmox · UFW · Fail2ban · Unattended Upgrades
+DevOps                   →  Docker · NAS Cloud On-Premise · Proxmox · UFW · Fail2ban
 Full Stack Web           →  Next.js · Three.js · React Three Fiber · Tailwind
 Backend Systems          →  Golang · FastAPI · Spring Boot · gRPC · WebSocket
 Mobile                   →  Kotlin · Android · MVVM · Clean Architecture
-Hardware Lab             →  RTX 5090 32GB · Jetson Orin Nano · UGREEN NAS 2TB
+Hardware Lab             →  RTX 5090 32GB · Jetson Orin Nano Dev Kit · Jetson Orin NX · NAS On-Premise
 ```
 
 ---
