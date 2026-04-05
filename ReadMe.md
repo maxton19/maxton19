@@ -1,7 +1,5 @@
-# Rian Aji — Builder & Technopreneur
+# Rian Aji 
 
-**Founder · Full-Stack Engineer · AI Systems Architect**  
-📍 Jakarta, Indonesia
 
 ---
 
